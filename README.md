@@ -19,7 +19,7 @@ A small web app that tries to imitate the desktop web version of amazon site. It
 
 ✔ react hooks	
 ✔ react redux	
-✔ react router	s
+✔ react routers
 ✔ react material-ui	
 
 *Back End
